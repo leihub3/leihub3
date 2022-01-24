@@ -34,10 +34,12 @@
   <img src='https://user-images.githubusercontent.com/63620341/150700304-591d3777-be1c-43c7-b517-556963abdbd0.jpg' width='275px' height='auto'>
   <img src='https://user-images.githubusercontent.com/63620341/150700311-fda9c09b-95e2-427f-a954-3dc97920a8b1.jpg' width='280px' height='auto'>
 </div>
-<b>Proyect website: </b><a href='https://videogames-sigma.vercel.app' target='_blank'>please click here</a>
+<b>Proyect website: </b><a href='https://videogames-sigma.vercel.app' target='_blank'>please click here</a> | 
+<b>Repository: </b><a href='https://github.com/leihub3/henry_PI'>click here</a>
 
 <h3>Academic Activities Scheduling</h3>
 <img src='https://user-images.githubusercontent.com/63620341/150722824-d17b48fe-42e5-4443-b31d-cbf4741fec69.gif' width='100%' height='auto'>
+<b>Repository: </b><a href='https://github.com/leihub3/scheduling_proyect'>click here</a>
 
 ### 📫 How to reach me:
 <a href='https://www.linkedin.com/in/luis-isaia/'><img width='70px' height='auto' src='https://user-images.githubusercontent.com/63620341/150700441-790d3a07-29b8-41f2-a582-2debe4c44c2b.png'></a>
