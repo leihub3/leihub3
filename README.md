@@ -1,11 +1,10 @@
 <div style='background:blue; width:100%; height: 250px'>
-  <img src='https://user-images.githubusercontent.com/63620341/150719257-8f1494c1-c2b6-403f-b7b2-75d5511cec63.gif'>
+  <img src='https://user-images.githubusercontent.com/63620341/150726235-cd7824f9-60ca-414e-aa19-1a27bd295d4b.gif'>
 </div>
 
 ### 👋 ¡Hola! Mi nombre es Luis 👋 Soy músico profesional y un apasionado por el desarrollo web. Estoy en la última etapa del archi-mega-ultra intenso bootcamp de Henry... and absolutely ready to go! 🔥💪🚀
 
 <hr>
-
 
 ### ⭐ Languages and Tools:
 
@@ -29,11 +28,11 @@
 ### 📌 My proyects
 <h3>The All Time Video Games Collection</h3>
 <div style='display:grid; grid-template-columns: repeat( auto-fit, minmax(314px, 1fr) );'>
-  <img src='https://user-images.githubusercontent.com/63620341/150680312-03515beb-cf83-4ef8-812e-4a97cd7180d4.jpg' width='314px' height='auto'>
-  <img src='https://user-images.githubusercontent.com/63620341/150680922-2684a5e1-96a6-4de3-832d-ad58db853bdd.jpg' width='314px' height='auto'>
-  <img src='https://user-images.githubusercontent.com/63620341/150680923-7105c9f3-f851-41d0-ae56-63c6c8537482.jpg' width='314px' height='auto'>
-  <img src='https://user-images.githubusercontent.com/63620341/150700304-591d3777-be1c-43c7-b517-556963abdbd0.jpg' width='314px' height='auto'>
-  <img src='https://user-images.githubusercontent.com/63620341/150700311-fda9c09b-95e2-427f-a954-3dc97920a8b1.jpg' width='314px' height='auto'>
+  <img src='https://user-images.githubusercontent.com/63620341/150680312-03515beb-cf83-4ef8-812e-4a97cd7180d4.jpg' width='290px' height='auto'>
+  <img src='https://user-images.githubusercontent.com/63620341/150680922-2684a5e1-96a6-4de3-832d-ad58db853bdd.jpg' width='290px' height='auto'>
+  <img src='https://user-images.githubusercontent.com/63620341/150680923-7105c9f3-f851-41d0-ae56-63c6c8537482.jpg' width='290px' height='auto'>
+  <img src='https://user-images.githubusercontent.com/63620341/150700304-591d3777-be1c-43c7-b517-556963abdbd0.jpg' width='290px' height='auto'>
+  <img src='https://user-images.githubusercontent.com/63620341/150700311-fda9c09b-95e2-427f-a954-3dc97920a8b1.jpg' width='290px' height='auto'>
 </div>
 <b>Proyect website: </b><a href='https://videogames-sigma.vercel.app' target='_blank'>please click here</a>
 
