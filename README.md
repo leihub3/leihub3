@@ -1,5 +1,5 @@
 <div style='background:blue; width:100%; height: 250px'>
-  <img src='https://user-images.githubusercontent.com/63620341/150701128-550054b4-29a7-40db-8fff-be18a4f6b499.png'>
+  <img src='https://user-images.githubusercontent.com/63620341/150719257-8f1494c1-c2b6-403f-b7b2-75d5511cec63.gif'>
 </div>
 
 ### 👋 ¡Hola! Mi nombre es Luis 👋 Soy músico profesional y un apasionado por el desarrollo web. Estoy en la última etapa del archi-mega-ultra intenso bootcamp de Henry... and absolutely ready to go! 🔥💪🚀
