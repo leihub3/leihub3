@@ -2,7 +2,7 @@
   <img src='https://user-images.githubusercontent.com/63620341/150726235-cd7824f9-60ca-414e-aa19-1a27bd295d4b.gif'>
 </div>
 
-### 👋 ¡Hola! Mi nombre es Luis 👋 Soy músico profesional y un apasionado por el desarrollo web. Estoy en la última etapa del archi-mega-ultra intenso bootcamp de Henry... and absolutely ready to go! 🔥💪🚀
+### 👋 ¡Hola! Mi nombre es Luis 👋 Soy músico profesional y un apasionado por el desarrollo web. Tengo conocimientos tanto en backend como en frontend para desarrollar aplicaciones modernas en JavaScript (React, Redux, Express, Sequelize, PostgreSQL, NodeJs) como así también en PHP y MySQL. 🔥💪🚀
 
 <hr>
 
