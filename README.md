@@ -26,7 +26,18 @@
 <hr>
 
 ### 📌 My proyects
-<h3>The All Time Video Games Collection</h3>
+<h3>Medical Hub App (PERN stack)</h3>
+<div style='display:grid; grid-template-columns: repeat( auto-fit, minmax(314px, 1fr) );'>
+<img src='https://user-images.githubusercontent.com/63620341/156764787-25377179-4d1d-4a66-891c-ba95572ed18a.png' width='275px' height='auto'>
+  <img src='https://user-images.githubusercontent.com/63620341/156764813-1cf55873-89d1-4ac8-84f1-e4a3bf015604.png' width='275px' height='auto'>  
+  <img src='https://user-images.githubusercontent.com/63620341/156764833-a30051b9-18bc-4b65-8de1-77034874482d.png' width='275px' height='auto'>  
+  <img src='https://user-images.githubusercontent.com/63620341/156764844-0351e754-4668-4209-acdb-8f22485c4241.png' width='275px' height='auto'>  
+  <img src='https://user-images.githubusercontent.com/63620341/156764884-7ded1d24-6511-4a3d-94f6-b8ab137788a9.png' width='275px' height='auto'>
+</div>  
+<b>Proyect website: </b><a href='https://medicalhub.netlify.app/' target='_blank'>please click here</a> | 
+<b>Repository: </b><a href='https://github.com/leihub3/medical-hub-pf'>click here</a>
+
+<h3>The All Time Video Games Collection (PERN stack)</h3>
 <div style='display:grid; grid-template-columns: repeat( auto-fit, minmax(314px, 1fr) );'>
   <img src='https://user-images.githubusercontent.com/63620341/150680312-03515beb-cf83-4ef8-812e-4a97cd7180d4.jpg' width='275px' height='auto'>
   <img src='https://user-images.githubusercontent.com/63620341/150680922-2684a5e1-96a6-4de3-832d-ad58db853bdd.jpg' width='275px' height='auto'>
@@ -37,7 +48,7 @@
 <b>Proyect website: </b><a href='https://videogames-sigma.vercel.app' target='_blank'>please click here</a> | 
 <b>Repository: </b><a href='https://github.com/leihub3/henry_PI'>click here</a>
 
-<h3>Academic Activities Scheduling</h3>
+<h3>Academic Activities Scheduling (PHP, MySql)</h3>
 <img src='https://user-images.githubusercontent.com/63620341/150722824-d17b48fe-42e5-4443-b31d-cbf4741fec69.gif' width='100%' height='auto'>
 <b>Repository: </b><a href='https://github.com/leihub3/scheduling_proyect'>click here</a>
 
